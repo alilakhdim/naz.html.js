@@ -1,0 +1,2 @@
+# naz.html.js
+activer
